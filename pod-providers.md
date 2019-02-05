@@ -8,8 +8,6 @@
 |-----------------------------------|:---------------------------------------------------:|:-------------------------------------------------:|:-------------------:|:--------------------:|
 | https://inrupt.net/               | [Inrupt, Inc.](https://inrupt.com/terms-of-service) |         [Amazon](https://aws.amazon.com)          |         USA         |          ??          |
 | https://solid.community/          |                          ??                         |                        ??                         |         ??          |          ??          |
-| https://solid.openlinksw.com:8444 |  [OpenLink Software](https://www.openlinksw.com/)   | [OpenLink Software](https://www.openlinksw.com/)  |         USA         |        NSS 4.x       |
-| https://solid.openlinksw.com:8445 |  [OpenLink Software](https://www.openlinksw.com/)   | [OpenLink Software](https://www.openlinksw.com/)  |         USA         |        NSS 5.x       |
 | https://solidtest.space/          |                          ??                         |                        ??                         |         ??          |          ??          |
 
 ### Development releases 
@@ -18,3 +16,5 @@
 |-----------------------------------|:---------------------------------------------------:|:-------------------------------------------------:|:-------------------:|:--------------------:|
 | https://dev.inrupt.net/           | [Inrupt, Inc.](https://inrupt.com/terms-of-service) |         [Amazon](https://aws.amazon.com)          |         USA         |          ??          |
 | https://solid.authing.cn/         |                          ??                         |                        ??                         |         ??          |          ??          |
+| https://solid.openlinksw.com:8444 |  [OpenLink Software](https://www.openlinksw.com/)   | [OpenLink Software](https://www.openlinksw.com/)  |         USA         |        NSS 4.x       |
+| https://solid.openlinksw.com:8445 |  [OpenLink Software](https://www.openlinksw.com/)   | [OpenLink Software](https://www.openlinksw.com/)  |         USA         |        NSS 5.x       |
